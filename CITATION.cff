@@ -5,6 +5,6 @@ authors:
     given-names: "MD Zayed"
     orcid: "https://orcid.org/0000-0000-0000-0000"  # Replace with your actual ORCID URL
 title: "Embedded Autonamans Engine Deterministic"
-version: "1.0.0"
+version: "2.0.0"
 date-released: "2025-12-31"
 url: "https://github.com/MD-Zayed-Al-Sajed/Embedded-Autonamans-Engine_Deterministic"
